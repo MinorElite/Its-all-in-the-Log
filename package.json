@@ -1,0 +1,24 @@
+{
+  "name": "its-all-in-the-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinorElite/Its-all-in-the-Log.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinorElite/Its-all-in-the-Log/issues"
+  },
+  "homepage": "https://github.com/MinorElite/Its-all-in-the-Log#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "readline": "^1.3.0"
+  }
+}
